@@ -4,3 +4,5 @@ node_modules/
 
 # Ignore all .env files (common for environment variables)
 .env
+
+.txt

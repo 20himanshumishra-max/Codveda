@@ -1,4 +1,0 @@
-UID- Himanshu_db_user
-PASS- PiTYrt2kzaqS1cPO
-
-mongodb+srv://Himanshu_db_user:PiTYrt2kzaqS1cPO@mycluster.pve1pwj.mongodb.net/?retryWrites=true&w=majority&appName=MyCluster
