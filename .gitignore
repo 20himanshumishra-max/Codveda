@@ -1,8 +1,5 @@
-
-# Ignore the 'node_modules' directory (common for Node.js projects)
 node_modules/
 
-# Ignore all .env files (common for environment variables)
 .env
 
 .txt
